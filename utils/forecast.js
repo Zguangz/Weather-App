@@ -23,7 +23,9 @@ const forecast = (latitude, longitude, callback) => {
           response.body.current.temperature +
           " degree at " +
           response.body.location.name +
-          "."
+          " but feels like " +
+          response.body.current.feelslike +
+          " degree."
       );
     }
   });

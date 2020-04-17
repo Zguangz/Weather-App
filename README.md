@@ -7,8 +7,8 @@
 5. An HTTP Request Challenge
 6. Handling Errors
 7. The Callback Function
-8. Callback Abstraction
-9. Callback Abstraction Challenge
+8. Callback Abstraction - Geocode
+9. Callback Abstraction - Forecast
 10. Callback Chaining
 11. ES6 Aside: Object Property Shorthand and Destructuring
 12. Destructuring and Property Shorthand Challenge
